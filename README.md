@@ -2,7 +2,7 @@
 
 A useful class to add a server side check for a mandatory update and server-side configuration options to your iOS application.
 
-To add to you app, simply add the following lines to your AppDelegate class:
+To add to your app, simply add the following lines to your AppDelegate class:
 
 	- (void)applicationDidBecomeActive:(UIApplication *)application
 	{
